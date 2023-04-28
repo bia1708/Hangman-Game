@@ -1,2 +1,2 @@
 # Hangman-Game
- A simple implementation of the game Hangman in Python.
+ A simple implementation of the game Hangman in Python
